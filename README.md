@@ -1,8 +1,10 @@
-# INFORMATION-RETRIEVAL-SYSTEM-FROM-IMAGES-DATABASE
+# INFORMATION RETRIEVAL SYSTEM FROM IMAGES DATABASE
 ## Face-recognition-attendance-system
 ### Face recognition made using python
 
-Libraries required: -> cmake -> dlib -> numpy -> opencv -> face recognition -> os ⦁ Methodology :
+Libraries required: → cmake → dlib → numpy → opencv → face recognition → os 
+
+⦁ Methodology :
 
 The proposed system face recognition-based attendance system can be divided into four main steps .The steps and their functions are defined as follows.
 
